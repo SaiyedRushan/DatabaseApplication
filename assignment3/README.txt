@@ -1,0 +1,1 @@
+To directly run the application, run the jar file in dist folder.
