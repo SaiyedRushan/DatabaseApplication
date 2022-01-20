@@ -1,7 +1,10 @@
 # Database Application
 
 This project was created using Java Swing, JDBC and SQL.
-It is a frontend database application that allows users to insert CFP records and view the results of the queries that display the upcoming events for each event type and the count of the number of events grouped by the months and the type of the event. 
+It is a full stack database application that allows users to insert CFP records through a gui which was created using java swing, 
+and view the results of some SQL queries carried out with the help of JDBC that display the upcoming events for each
+event type and the count of the number of events grouped by the months and the type of the event. <br>
+To test the application, go to the dist folder and run the .jar file. 
 
 Sample Images
 
